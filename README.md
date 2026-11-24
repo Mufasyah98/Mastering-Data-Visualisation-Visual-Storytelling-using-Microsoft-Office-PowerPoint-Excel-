@@ -2,7 +2,7 @@
 
 Hands-on exercise files for a two-day corporate workshop.
 
-[CLICK HERE FOR TRAINING MATERIAL](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgB_sKzZ5qI5QJVt8HM8fAiLAVKPPo6L0KIDpMGbKppZ3FQ?e=EN4yDy)
+[CLICK HERE FOR TRAINING MATERIAL](https://mufasyah-my.sharepoint.com/:f:/g/personal/fakhrul_syahmi_mufasyah_onmicrosoft_com/IgB_sKzZ5qI5QJVt8HM8fAiLAVKPPo6L0KIDpMGbKppZ3FQ?e=5zZqdv)
 
 **Trainer:** Fakhrul Syahmi · Data Consultant & Certified Trainer · mufasyahcons@gmail.com
 **Audience:** 20–24 corporate professionals with mixed Excel and PowerPoint experience
